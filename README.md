@@ -17,7 +17,6 @@ In modern healthcare, effective patient management and secure data storage are c
 - **Programming Language:** Choose Python, Java, or a web framework like Django.
 - **Database:** MySQL, PostgreSQL, SQLite for data storage.
 - **Web Server:** Required for web applications (e.g., Django includes a built-in server).
-- **Front-end Technologies:** HTML, CSS, JavaScript for user interfaces.
 - **Database Design Tools:** Use MySQL Workbench, pgAdmin for schema design.
 - **Version Control:** Git, GitHub for managing codebase.
 - **System Resources:** Adequate CPU, memory, storage for development.
